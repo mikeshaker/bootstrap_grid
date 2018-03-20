@@ -23,7 +23,7 @@ Pretty straightforward.
 Just get `css/bootstrap.min.css` or `css/bootstrap.css` and add it to your project.
 
 ### NPM
-
+* [npm package](https://www.npmjs.com/package/bootstrap_grid_css)
 ````
 npm install bootstrap_grid_css
 ````
