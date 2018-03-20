@@ -20,7 +20,7 @@ Sass and CSS files are ready to be used in your project.
 ### CSS
 
 Pretty straightforward.
-Just get `css/boorstrap.min.css` or `css/bootstrap.css` and add it to your project.
+Just get `css/bootstrap.min.css` or `css/bootstrap.css` and add it to your project.
 
 ### NPM
 
