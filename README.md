@@ -1,2 +1,2 @@
 # bootstrap_grid
-bootstrap grid
+bootstrap grid styles only
